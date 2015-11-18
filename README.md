@@ -13,7 +13,7 @@ Sanity check in terminal: 'sudo apt-get install mono-mcs'
 
 3.) Run the code in terminal: 
 
-'mono StandardsAndPoorsUtility.exe <File Name> <Start Month (Zero Based)> <Start Day> <Start Year> <End Month (Zero Based)> <End Day> <End Year>'
+'mono StandardsAndPoorsUtility.exe {File Name} {Start Month (Zero Based)} {Start Day} {Start Year} {End Month (Zero Based)} {End Day} {End Year}'
 
 Example:
 
